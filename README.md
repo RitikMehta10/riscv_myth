@@ -32,4 +32,4 @@ Think of it like a **digital switch** controlled by select lines.
 If `s = 0`, then `f = x2`  
 If `s = 1`, then `f = x1`
 
-[trying to make a relative link](riscv_myth/blob/main/image.png)
+[trying to make a relative link](riscv_myth/image.png)
