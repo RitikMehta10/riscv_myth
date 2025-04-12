@@ -10,7 +10,6 @@ A repository containing all details of the RISC-V MYTH workshop, which focuses o
 
 # MAKERCHIP PLATFORM
 ---
-
 ## 🎛️ 🎶 Understanding the Multiplexer (MUX)
 
 ## 🔍 What is a Multiplexer?
